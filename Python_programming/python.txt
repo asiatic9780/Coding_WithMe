@@ -1,0 +1,34 @@
+(1) List out fetures and application of python.
+
+fetures :-
+    Easy to learn and readadle language. python is extremly easy to learn.
+    interpreted language.
+    dynamically typed language.
+    open source and free 
+    large standard library
+    High-Level language
+    object oriented programming language
+    large community support
+    platfrom independent
+    extensible and embeddable
+    graphical user interface(GUI) support
+
+application :-
+    web devlopment
+    data science
+    video game devlopment
+    software devlopment
+    business
+    compiter-aided design
+    science
+    machine learning
+    digital image processing
+    embedded system
+    tkinter
+    data visualization
+    web application
+    data analysis
+    artificial intelligence
+    videp game
+    automation
+    
